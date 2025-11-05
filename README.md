@@ -27,8 +27,8 @@ The game allows two players to play alternately in the console, marking position
 - Random module  
 - Console-based input/output  
 
-Example Output
-
+## Example Output
+`````
 WELCOME TO TIC TAC TOE!
 Player1: Do you want to be X or O ? X
 Player 1 will go first.
@@ -39,7 +39,7 @@ Are you ready to play? Enter Y or N. Y
 ----------
 1 | 2 | 3
 Chose your next position: (1-9)
-
+`````
 ## Author
 **Manar Salem**
 Computer Science Student
