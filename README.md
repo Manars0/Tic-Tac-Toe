@@ -14,11 +14,11 @@ The game allows two players to play alternately in the console, marking position
 1. Run the Python script.
 2. Player 1 chooses a marker (`X` or `O`).
 3. Players take turns entering positions (1–9) as shown below:
-
+`````
 7 | 8 | 9
 4 | 5 | 6
 1 | 2 | 3
-
+`````
 4. The game announces when a player wins or if it's a tie.
 5. After the game ends, players can choose to replay.
 
