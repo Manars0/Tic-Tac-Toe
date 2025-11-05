@@ -41,6 +41,6 @@ Are you ready to play? Enter Y or N. Y
 Chose your next position: (1-9)
 `````
 ## Author
-**Manar Salem**
-Computer Science Student
-https://github.com/Manars0
+**Manar Salem**  
+Programming and Database Student  
+[https://github.com/Manars](https://github.com/Manars)
