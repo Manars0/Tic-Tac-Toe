@@ -39,8 +39,3 @@ Are you ready to play? Enter Y or N. Y
 ----------
 1 | 2 | 3
 Chose your next position: (1-9)
-`````
-## Author
-**Manar Salem**  
-Programming and Database Student  
-[https://github.com/Manars](https://github.com/Manars)
